@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Chú biết mò <3 chú cũng muốn em ở với chú cả đời nun',
     messDesc: 'Đợi hết dịch mình gặp lại nhau ha~~',
     btnAccept: 'Dạ em biết òi',
-    messLink: 'https://www.facebook.com/gum.oliver.77/' 
+    messLink: 'http://fb.com/gum.oliver.77/' 
 }
