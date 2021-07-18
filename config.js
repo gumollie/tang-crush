@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Hello em bé của chú!',
+    introDesc: `Nay chú mò được này nè
+    Vui vl hê hê
+    Chú nhớ bé lắm ý bé biết hông
+    Chú chỉ muốn mong gặp lại bé hoy á ư ư`,
+    btnIntro: ':<<<',
+    title: 'Hông biết viết gì nun :>>',
+    desc: 'Nhưng mà, em có muốn ở cạnh chú cả đời hông ',
+    btnYes: 'Dạ có chứ, chú đẹp trai dị bỏ phí lắm :3',
+    btnNo: 'Bố mày đéo thích',
+    question:'Hê hê em có chắc chắn muốn ở với chú cả đời hem',
+    btnReply: 'Có có có!!!',
+    reply: 'Dạ có trứ!!!!',
+    mess: 'Chú biết mò <3 chú cũng muốn em ở với chú cả đời nun',
+    messDesc: 'Đợi hết dịch mình gặp lại nhau ha~~',
+    btnAccept: 'Dạ em biết òi',
+    messLink: 'https://www.facebook.com/gum.oliver.77/' 
 }
